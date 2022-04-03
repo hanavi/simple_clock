@@ -1,0 +1,37 @@
+
+body {
+    background: black;
+    color: #00ff00;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    position:fixed;
+    display: flex;
+}
+
+.parent {
+    padding: auto;
+    margin: auto;
+}
+
+.clock {
+    padding: .3em;
+    margin: auto;
+    text-align: center;
+    font-size: 5em;
+    font-family: Courier New;
+}
+
+#clock1 {
+    color: red;
+    /* font-family: Times New Roman; */
+}
+#clock2 {
+    color: blue;
+    /* font-family: Arial; */
+}
+#clock3 {
+    color: green;
+}
+
