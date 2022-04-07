@@ -5,8 +5,8 @@ function timeNow() {
     // Update clock settings here
 
     // Clock 1
-    clockOffset1 = -4;
-    clockOffsetLabel1 = "LCL";
+    clockOffset1 = -6;
+    clockOffsetLabel1 = "&nbsp;MT";
 
     // Clock 2
     clockOffset2 = 0;

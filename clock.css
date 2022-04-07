@@ -20,7 +20,9 @@ body {
     margin: auto;
     text-align: center;
     font-size: 5em;
-    font-family: Courier New;
+    /* font-family: Courier New; */
+    font-family: Nimbus Mono PS;
+    /* border: 1px solid white; */
 }
 
 #clock1 {
