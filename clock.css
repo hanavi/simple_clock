@@ -1,4 +1,3 @@
-
 body {
     background: black;
     color: #00ff00;
@@ -20,6 +19,7 @@ body {
     margin: auto;
     text-align: center;
     font-size: 5em;
+    font-weight: bold;
     /* font-family: Courier New; */
     font-family: Nimbus Mono PS;
     /* border: 1px solid white; */
@@ -29,11 +29,12 @@ body {
     color: red;
     /* font-family: Times New Roman; */
 }
+
 #clock2 {
     color: blue;
     /* font-family: Arial; */
 }
+
 #clock3 {
     color: green;
 }
-
